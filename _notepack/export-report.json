@@ -1,0 +1,207 @@
+{
+  "startedAt": "2026-11-14T02:03:53.548Z",
+  "manifestVersion": "0.18.6",
+  "scopeTitle": "OBSIDIAN INDICTA WEBSITE",
+  "exportMode": "local",
+  "bases": [
+    {
+      "basePath": "ELEMENTS/Ανείπωτα.base",
+      "viewsParsed": [
+        {
+          "name": "View",
+          "type": "cards",
+          "summaries": null
+        }
+      ],
+      "viewHits": 1,
+      "sum-View": {
+        "cfg": null,
+        "hasFn": "function",
+        "hasController": false,
+        "qProtoKeys": [
+          "constructor",
+          "groupedData",
+          "properties",
+          "applySort",
+          "applyLimit",
+          "getSummaryValue"
+        ]
+      },
+      "outFile": "base-ba1eb426.html",
+      "problems": []
+    }
+  ],
+  "accentCaptured": "rgb(138, 92, 245)",
+  "notePageCount": 5,
+  "notes": [
+    {
+      "path": "0 Οδηγίες.md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "h1",
+        "p",
+        "table",
+        "p",
+        "h2",
+        "ol",
+        "p",
+        "h2",
+        "p",
+        "pre",
+        "p",
+        "h2",
+        "ol",
+        "h2",
+        "ul",
+        "h3",
+        "table",
+        "h2",
+        "p",
+        "h2",
+        "p",
+        "table",
+        "p",
+        "h2",
+        "p",
+        "pre",
+        "p",
+        "h2",
+        "p",
+        "pre",
+        "p",
+        "h2",
+        "p",
+        "pre",
+        "p",
+        "pre",
+        "h2",
+        "pre",
+        "p",
+        "h2",
+        "ul"
+      ],
+      "foldableSections": 13
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Δείγμα κειμένου.md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "IDEA.md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "h1",
+        "p",
+        "ul",
+        "h2",
+        "table",
+        "p"
+      ],
+      "foldableSections": 2
+    },
+    {
+      "path": "INDICTA WEBSITE/index.md",
+      "embedSrcs": [
+        "ATTACHMENTS/SITE/cover1.webp"
+      ],
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover1.webp\" src=\"ATTACHMENTS/SITE/cover1.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover1.webp\" src=\"app://d5bce53a62c9901e9359f6956bb8ee20e9f3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "ATTACHMENTS/SITE/cover1.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [
+        {
+          "linktext": "Ανείπωτα.md",
+          "to": "INDICTA WEBSITE/Ανείπωτα.md"
+        }
+      ],
+      "images": [
+        {
+          "originalSrc": "app://d5bce53a62c9901e9359f6956bb8ee20e9f3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639",
+          "resolvedPath": "ATTACHMENTS/SITE/cover1.webp",
+          "asset": "asset-1cdfbef4.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "INDICTA WEBSITE/Ανείπωτα.md",
+      "embedWaitMs": 250,
+      "embedMatched": 1,
+      "embedExpected": 1,
+      "embedSrcs": [
+        "Ανείπωτα.base"
+      ],
+      "firstEmbedDom": "<span alt=\"Ανείπωτα.base\" src=\"Ανείπωτα.base\" class=\"internal-embed bases-embed interactive-child is-loaded\"><div class=\"bases-header\"><div class=\"bases-toolbar\"><div class=\"bases-toolbar-item bases-toolbar-views-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-layout-grid\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect></svg></span><span class=\"text-button-label\">View</span><span class=\"text-button-icon mod-aux\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-chevrons-up-down\"><path d=\"m7 15 5 5 5-5\"></path><path d=\"m7 9 5-5 5 5\"></path></svg></span></div></div><div class=\"bases-toolbar-item bases-toolbar-results-menu bases-toolbar-result-count\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-text-align-start\"><path d=\"M21 5H3\"></path><path d=\"M15 12H3\"></path><path d=\"M17 19H3\"></path></svg></span><span class=\"text-button-label\">1 result</span></div></div><div class=\"bases-toolbar-item bases-toolbar-display-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-settings\"><path d=\"M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></span><span class=\"text-button-label\">Display</span></div></div><div class=\"bases-toolbar-item bases-toolbar-sort-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-arrow-up-down\"><path d=\"m21 16-4 4-4-4\"></path><path d=\"M17 20V4\"></path><path d=\"m3 8 4-4 4 4\"></path><path d=\"M7 4v16\"></path></svg></span><span class=\"text-button-label\">Sort</span><span class=\"flair toolbar-badge\" style=\"\">1</span></div></div><div class=\"bases-toolbar-item bases-toolbar-group-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-stretch-horizontal\"><rect x=\"2\" y=\"4\" width=\"20\" height=\"6\" rx=\"2\"></rect><rect x=\"2\" y=\"14\" width=\"20\" height=\"6\" rx=\"2\"></rect></svg></span><span class=\"text-button-label\">Group</span></div></div><div class=\"bases-toolbar-item bases-toolbar-filter-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" ",
+      "embedQueryHits": [
+        {
+          "path": "root._children[0]._children[0]._children[6].data",
+          "dataLen": 1,
+          "properties": [
+            "file.name",
+            "note.ΚΑΤΗΓΟΡΙΑ",
+            "note.ΗΜΕΡΟΜΗΝΙΑ"
+          ],
+          "ownerHasContainerEl": true,
+          "containerInsideThisNote": true,
+          "containerClass": "bases-cards-container node-insert-event"
+        }
+      ],
+      "embedReplacements": [
+        {
+          "src": "Ανείπωτα.base",
+          "rows": 1,
+          "groups": 0,
+          "matchedPath": "root._children[0]._children[0]._children[6].data"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "../assets/asset-92fe85be.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-040353/assets/asset-92fe85be.webp",
+          "asset": "asset-ceb047bf.webp"
+        }
+      ],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "h2",
+        "p",
+        "p"
+      ],
+      "foldableSections": 1
+    }
+  ],
+  "noteProblems": [],
+  "problems": []
+}
