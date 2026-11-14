@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.indicta.gr/sitemap.xml
+Sitemap: https://indicta.gr/sitemap.xml
