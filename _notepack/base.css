@@ -1077,7 +1077,6 @@ footer.np-footer {
   }
 }
 
-
 /* ===== INJECTED CUSTOM CSS ===== */
 /* ==========================================================
    INDICTA — θέμα «χαρτί» για το VaultPack export
@@ -1221,6 +1220,31 @@ table.np-props,
 .site-footer a:hover { color: var(--np-color-accent) !important; }
 
 /* ---------- τίτλος σελίδας & κείμενο ---------- */
+
+/* «← Ανείπωτα» στην κορυφή κάθε κειμένου (μπαίνει από το 2 deploy.py) */
+.post-back {
+    max-width: var(--content-w);
+    margin: 2.25rem auto 0;
+    padding: 0 var(--pad-x);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.74rem !important;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.post-back a {
+    color: var(--np-color-accent) !important;
+    text-decoration: none !important;
+}
+
+.post-back a:hover {
+    text-decoration: underline !important;
+    text-underline-offset: 0.22em;
+}
+
+.post-back + h1 {
+    margin-top: 0.9rem;
+}
 
 body > h1 {
     max-width: var(--content-w);
