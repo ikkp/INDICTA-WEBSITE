@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-14T02:03:53.548Z",
+  "startedAt": "2026-11-14T15:37:07.694Z",
   "manifestVersion": "0.18.6",
   "scopeTitle": "OBSIDIAN INDICTA WEBSITE",
   "exportMode": "local",
@@ -32,7 +32,7 @@
     }
   ],
   "accentCaptured": "rgb(138, 92, 245)",
-  "notePageCount": 5,
+  "notePageCount": 28,
   "notes": [
     {
       "path": "0 Οδηγίες.md",
@@ -86,14 +86,760 @@
       "foldableSections": 13
     },
     {
-      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Δείγμα κειμένου.md",
+      "path": "DRAFT/Banner.md",
       "links": [],
       "images": [],
       "embedSpanCount": 0,
       "noteEmbeds": [],
       "topLevelTags": [
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/1η Μάρτη.md",
+      "embedSrcs": [
+        "Fasianos.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Fasianos.webp\" alt=\"Fasianos.webp\"><img alt=\"Fasianos.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Fasianos.webp?1794668818448\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Fasianos.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Fasianos.webp?1794668818448",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Fasianos.webp",
+          "asset": "asset-80484df8.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=tUusN1BS3D4",
+          "fetched": true,
+          "thumb": "oembed-hqdefault.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
         "p",
         "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/21 Δεκέμβρη.md",
+      "embedSrcs": [
+        "Crossed circle.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Crossed circle.webp\" alt=\"Crossed circle.webp\" width=\"235\"><img alt=\"Crossed circle.webp\" width=\"235\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Crossed%20circle.webp?1794668818351\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Crossed circle.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Crossed%20circle.webp?1794668818351",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Crossed circle.webp",
+          "asset": "asset-c0dedc41.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Anti urban.md",
+      "embedSrcs": [
+        "(A)nti urban.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"(A)nti urban.webp\" alt=\"(A)nti urban.webp\"><img alt=\"(A)nti urban.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/(A)nti%20urban.webp?1794668815331\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "(A)nti urban.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/(A)nti%20urban.webp?1794668815331",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/(A)nti urban.webp",
+          "asset": "asset-78176971.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Personal Serendipity.md",
+      "embedSrcs": [
+        "Serendipity.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Serendipity.webp\" alt=\"Serendipity.webp\" width=\"258\"><img alt=\"Serendipity.webp\" width=\"258\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Serendipity.webp?1794668823528\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Serendipity.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Serendipity.webp?1794668823528",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Serendipity.webp",
+          "asset": "asset-52b1333e.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Sea gulls in Istanbul.md",
+      "embedSrcs": [
+        "Sea gulls.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Sea gulls.webp\" alt=\"Sea gulls.webp\" width=\"462\"><img alt=\"Sea gulls.webp\" width=\"462\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Sea%20gulls.webp?1794668823466\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Sea gulls.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Sea%20gulls.webp?1794668823466",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Sea gulls.webp",
+          "asset": "asset-3b4d51fe.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Αναγνώσιμος άμα τη αναζητήσει.md",
+      "embedSrcs": [
+        "Readable upon search.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Readable upon search.webp\" alt=\"Readable upon search.webp\" width=\"432\"><img alt=\"Readable upon search.webp\" width=\"432\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Readable%20upon%20search.webp?1794668821467\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Readable upon search.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Readable%20upon%20search.webp?1794668821467",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Readable upon search.webp",
+          "asset": "asset-8ea82868.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Αστυφοβία.md",
+      "embedSrcs": [
+        "city.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"city.webp\" alt=\"city.webp\" width=\"474\"><img alt=\"city.webp\" width=\"474\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/city.webp?1794668815394\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "city.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/city.webp?1794668815394",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/city.webp",
+          "asset": "asset-2cb6cd6d.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Εθνικάααααααάαραααα.md",
+      "embedSrcs": [
+        "National road.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"National road.webp\" alt=\"National road.webp\" width=\"664\"><img alt=\"National road.webp\" width=\"664\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/National%20road.webp?1794668820644\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "National road.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/National%20road.webp?1794668820644",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/National road.webp",
+          "asset": "asset-7e8ebb88.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Ενσταντανέ.md",
+      "embedSrcs": [
+        "Fig tree.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Fig tree.webp\" alt=\"Fig tree.webp\" width=\"415\"><img alt=\"Fig tree.webp\" width=\"415\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Fig%20tree.webp?1794668818535\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Fig tree.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Fig%20tree.webp?1794668818535",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Fig tree.webp",
+          "asset": "asset-eefaf7ba.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=AD1KGij9ipc",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-2.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Επαρχιώτης στην Ομόνοια.md",
+      "embedSrcs": [
+        "Mpakakos 60.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Mpakakos 60.webp\" alt=\"Mpakakos 60.webp\" width=\"545\"><img alt=\"Mpakakos 60.webp\" width=\"545\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Mpakakos%2060.webp?1794668820225\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Mpakakos 60.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Mpakakos%2060.webp?1794668820225",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Mpakakos 60.webp",
+          "asset": "asset-e7e61541.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=qLZHlkRHb9o",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-3.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Ευπραξία.md",
+      "embedSrcs": [
+        "Old istanbul.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Old istanbul.webp\" alt=\"Old istanbul.webp\" width=\"389\"><img alt=\"Old istanbul.webp\" width=\"389\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Old%20istanbul.webp?1794668821195\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Old istanbul.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Old%20istanbul.webp?1794668821195",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Old istanbul.webp",
+          "asset": "asset-6d1b104b.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Η αφαίρεση.md",
+      "embedSrcs": [
+        "Night view of Bosphorus.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Night view of Bosphorus.webp\" alt=\"Night view of Bosphorus.webp\" width=\"681\"><img alt=\"Night view of Bosphorus.webp\" width=\"681\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Night%20view%20of%20Bosphorus.webp?1794668821100\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Night view of Bosphorus.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Night%20view%20of%20Bosphorus.webp?1794668821100",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Night view of Bosphorus.webp",
+          "asset": "asset-65cecdab.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Η λαϊκή, ο πανικός και το εξαρτημένο αντανακλαστικό.md",
+      "embedSrcs": [
+        "Outdoor market.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Outdoor market.webp\" alt=\"Outdoor market.webp\" width=\"439\"><img alt=\"Outdoor market.webp\" width=\"439\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Outdoor%20market.webp?1794668821362\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Outdoor market.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Outdoor%20market.webp?1794668821362",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Outdoor market.webp",
+          "asset": "asset-746cb4d4.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Η νύχτα μέσα μου.md",
+      "embedSrcs": [
+        "The night inside me.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"The night inside me.webp\" alt=\"The night inside me.webp\" width=\"498\"><img alt=\"The night inside me.webp\" width=\"498\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/The%20night%20inside%20me.webp?1794668823651\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "The night inside me.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/The%20night%20inside%20me.webp?1794668823651",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/The night inside me.webp",
+          "asset": "asset-28698f15.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Η πιο θλιβερή εικόνα.md",
+      "embedSrcs": [
+        "Sad image.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Sad image.webp\" alt=\"Sad image.webp\"><img alt=\"Sad image.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Sad%20image.webp?1794668821531\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Sad image.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Sad%20image.webp?1794668821531",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Sad image.webp",
+          "asset": "asset-b0f3f36f.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Η φωτογραφία.md",
+      "embedSrcs": [
+        "Old photo.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Old photo.webp\" alt=\"Old photo.webp\"><img alt=\"Old photo.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Old%20photo.webp?1794668821279\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Old photo.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Old%20photo.webp?1794668821279",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Old photo.webp",
+          "asset": "asset-9aea8cdf.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Καρντάς.md",
+      "embedSrcs": [
+        "Kesan.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Kesan.webp\" alt=\"Kesan.webp\" width=\"690\"><img alt=\"Kesan.webp\" width=\"690\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Kesan.webp?1794668818980\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Kesan.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Kesan.webp?1794668818980",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Kesan.webp",
+          "asset": "asset-e289c9fe.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Μουσική κεντρομόλος.md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=5q9H2cd36RU",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-4.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/ΟυρανοΜίκης.md",
+      "embedSrcs": [
+        "Mikis.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Mikis.webp\" alt=\"Mikis.webp\" width=\"399\"><img alt=\"Mikis.webp\" width=\"399\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Mikis.webp?1794668820132\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Mikis.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Mikis.webp?1794668820132",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Mikis.webp",
+          "asset": "asset-6f14022d.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=GwMviSBL6qo",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-5.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Πρωτομαγιά.md",
+      "embedSrcs": [
+        "May day.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"May day.webp\" alt=\"May day.webp\" width=\"364\"><img alt=\"May day.webp\" width=\"364\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/May%20day.webp?1794668839726\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "May day.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/May%20day.webp?1794668839726",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/May day.webp",
+          "asset": "asset-ced3d55d.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=yVSaaDZ6YDY",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-6.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Τα τελευταία 2-3 χρόνια.md",
+      "embedSrcs": [
+        "Jenny Karezi.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Jenny Karezi.webp\" alt=\"Jenny Karezi.webp\"><img alt=\"Jenny Karezi.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Jenny%20Karezi.webp?1794668818750\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Jenny Karezi.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Jenny%20Karezi.webp?1794668818750",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Jenny Karezi.webp",
+          "asset": "asset-5db1c3a8.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Της ζωής μας το βήμα.md",
+      "embedSrcs": [
+        "Της ζωής μας το βήμα.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Της ζωής μας το βήμα.webp\" alt=\"Της ζωής μας το βήμα.webp\" width=\"339\"><img alt=\"Της ζωής μας το βήμα.webp\" width=\"339\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/%CE%A4%CE%B7%CF%82%20%CE%B6%CF%89%CE%AE%CF%82%20%CE%BC%CE%B1%CF%82%20%CF%84%CE%BF%20%CE%B2%CE%AE%CE%BC%CE%B1.webp?1794668823796\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Της ζωής μας το βήμα.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/%CE%A4%CE%B7%CF%82%20%CE%B6%CF%89%CE%AE%CF%82%20%CE%BC%CE%B1%CF%82%20%CF%84%CE%BF%20%CE%B2%CE%AE%CE%BC%CE%B1.webp?1794668823796",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Της ζωής μας το βήμα.webp",
+          "asset": "asset-7a2695eb.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=vQGunbY7400",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-7.jpg"
+        }
+      ],
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Το κοσμικό φλιπεράκι.md",
+      "embedSrcs": [
+        "Flipper.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"Flipper.webp\" alt=\"Flipper.webp\" width=\"401\"><img alt=\"Flipper.webp\" width=\"401\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Flipper.webp?1794668818673\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "Flipper.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/%CE%9A%CE%95%CE%99%CE%9C%CE%95%CE%9D%CE%91/Flipper.webp?1794668818673",
+          "resolvedPath": "ATTACHMENTS/ΚΕΙΜΕΝΑ/Flipper.webp",
+          "asset": "asset-063be202.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
         "p",
         "p",
         "p"
@@ -122,7 +868,7 @@
       "embedSrcs": [
         "ATTACHMENTS/SITE/cover1.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover1.webp\" src=\"ATTACHMENTS/SITE/cover1.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover1.webp\" src=\"app://d5bce53a62c9901e9359f6956bb8ee20e9f3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639\"></span>",
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"ATTACHMENTS/SITE/cover1.webp\" alt=\"ATTACHMENTS/SITE/cover1.webp\"><img alt=\"ATTACHMENTS/SITE/cover1.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -138,7 +884,7 @@
       ],
       "images": [
         {
-          "originalSrc": "app://d5bce53a62c9901e9359f6956bb8ee20e9f3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639",
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%20INDICTA%20WEBSITE/ATTACHMENTS/SITE/cover1.webp?1794621185639",
           "resolvedPath": "ATTACHMENTS/SITE/cover1.webp",
           "asset": "asset-1cdfbef4.webp"
         }
@@ -146,7 +892,6 @@
       "embedSpanCount": 1,
       "noteEmbeds": [],
       "topLevelTags": [
-        "p",
         "p",
         "p",
         "p"
@@ -161,11 +906,11 @@
       "embedSrcs": [
         "Ανείπωτα.base"
       ],
-      "firstEmbedDom": "<span alt=\"Ανείπωτα.base\" src=\"Ανείπωτα.base\" class=\"internal-embed bases-embed interactive-child is-loaded\"><div class=\"bases-header\"><div class=\"bases-toolbar\"><div class=\"bases-toolbar-item bases-toolbar-views-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-layout-grid\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect></svg></span><span class=\"text-button-label\">View</span><span class=\"text-button-icon mod-aux\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-chevrons-up-down\"><path d=\"m7 15 5 5 5-5\"></path><path d=\"m7 9 5-5 5 5\"></path></svg></span></div></div><div class=\"bases-toolbar-item bases-toolbar-results-menu bases-toolbar-result-count\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-text-align-start\"><path d=\"M21 5H3\"></path><path d=\"M15 12H3\"></path><path d=\"M17 19H3\"></path></svg></span><span class=\"text-button-label\">1 result</span></div></div><div class=\"bases-toolbar-item bases-toolbar-display-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-settings\"><path d=\"M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></span><span class=\"text-button-label\">Display</span></div></div><div class=\"bases-toolbar-item bases-toolbar-sort-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-arrow-up-down\"><path d=\"m21 16-4 4-4-4\"></path><path d=\"M17 20V4\"></path><path d=\"m3 8 4-4 4 4\"></path><path d=\"M7 4v16\"></path></svg></span><span class=\"text-button-label\">Sort</span><span class=\"flair toolbar-badge\" style=\"\">1</span></div></div><div class=\"bases-toolbar-item bases-toolbar-group-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-stretch-horizontal\"><rect x=\"2\" y=\"4\" width=\"20\" height=\"6\" rx=\"2\"></rect><rect x=\"2\" y=\"14\" width=\"20\" height=\"6\" rx=\"2\"></rect></svg></span><span class=\"text-button-label\">Group</span></div></div><div class=\"bases-toolbar-item bases-toolbar-filter-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" ",
+      "firstEmbedDom": "<span class=\"internal-embed bases-embed interactive-child is-loaded\" src=\"Ανείπωτα.base\" alt=\"Ανείπωτα.base\"><div class=\"bases-header\"><div class=\"bases-toolbar\"><div class=\"bases-toolbar-item bases-toolbar-views-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-layout-grid\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"></rect></svg></span><span class=\"text-button-label\">View</span><span class=\"text-button-icon mod-aux\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-chevrons-up-down\"><path d=\"m7 15 5 5 5-5\"></path><path d=\"m7 9 5-5 5 5\"></path></svg></span></div></div><div class=\"bases-toolbar-item bases-toolbar-results-menu bases-toolbar-result-count\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-text-align-start\"><path d=\"M21 5H3\"></path><path d=\"M15 12H3\"></path><path d=\"M17 19H3\"></path></svg></span><span class=\"text-button-label\">23 results</span></div></div><div class=\"bases-toolbar-item bases-toolbar-display-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-settings\"><path d=\"M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></span><span class=\"text-button-label\">Display</span></div></div><div class=\"bases-toolbar-item bases-toolbar-sort-menu\"><div class=\"text-icon-button tappable is-active\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-arrow-up-down\"><path d=\"m21 16-4 4-4-4\"></path><path d=\"M17 20V4\"></path><path d=\"m3 8 4-4 4 4\"></path><path d=\"M7 4v16\"></path></svg></span><span class=\"text-button-label\">Sort</span><span class=\"flair toolbar-badge\" style=\"\">1</span></div></div><div class=\"bases-toolbar-item bases-toolbar-group-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-stretch-horizontal\"><rect x=\"2\" y=\"4\" width=\"20\" height=\"6\" rx=\"2\"></rect><rect x=\"2\" y=\"14\" width=\"20\" height=\"6\" rx=\"2\"></rect></svg></span><span class=\"text-button-label\">Group</span></div></div><div class=\"bases-toolbar-item bases-toolbar-filter-menu\"><div class=\"text-icon-button tappable\" tabindex=\"0\" role=\"button\"><span class=\"text-button-icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2",
       "embedQueryHits": [
         {
           "path": "root._children[0]._children[0]._children[6].data",
-          "dataLen": 1,
+          "dataLen": 23,
           "properties": [
             "file.name",
             "note.ΚΑΤΗΓΟΡΙΑ",
@@ -179,7 +924,7 @@
       "embedReplacements": [
         {
           "src": "Ανείπωτα.base",
-          "rows": 1,
+          "rows": 23,
           "groups": 0,
           "matchedPath": "root._children[0]._children[0]._children[6].data"
         }
@@ -187,9 +932,114 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "../assets/asset-92fe85be.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261114-040353/assets/asset-92fe85be.webp",
-          "asset": "asset-ceb047bf.webp"
+          "originalSrc": "../assets/asset-7a2695eb.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-7a2695eb.webp",
+          "asset": "asset-a257fc9a.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-e7e61541.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-e7e61541.webp",
+          "asset": "asset-bf17c8cf.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-65cecdab.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-65cecdab.webp",
+          "asset": "asset-c41559fe.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-5db1c3a8.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-5db1c3a8.webp",
+          "asset": "asset-bd06a6d8.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-2cb6cd6d.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-2cb6cd6d.webp",
+          "asset": "asset-5c799d33.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-8ea82868.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-8ea82868.webp",
+          "asset": "asset-a0a1b3e7.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-28698f15.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-28698f15.webp",
+          "asset": "asset-3ae56130.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-6d1b104b.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-6d1b104b.webp",
+          "asset": "asset-17e336ff.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-3b4d51fe.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-3b4d51fe.webp",
+          "asset": "asset-39411b53.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-6f14022d.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-6f14022d.webp",
+          "asset": "asset-491ee836.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-eefaf7ba.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-eefaf7ba.webp",
+          "asset": "asset-0405745a.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-9aea8cdf.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-9aea8cdf.webp",
+          "asset": "asset-a35a68c8.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-78176971.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-78176971.webp",
+          "asset": "asset-2743a847.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-b0f3f36f.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-b0f3f36f.webp",
+          "asset": "asset-f22ce0ab.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-c0dedc41.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-c0dedc41.webp",
+          "asset": "asset-4430e48f.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-746cb4d4.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-746cb4d4.webp",
+          "asset": "asset-426aa77b.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-e289c9fe.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-e289c9fe.webp",
+          "asset": "asset-58404b86.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-52b1333e.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-52b1333e.webp",
+          "asset": "asset-e6d3b985.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-063be202.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-063be202.webp",
+          "asset": "asset-0297d52b.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-7e8ebb88.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-7e8ebb88.webp",
+          "asset": "asset-7e2cd1b0.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-80484df8.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-80484df8.webp",
+          "asset": "asset-6467fcdf.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-ced3d55d.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261114-173707/assets/asset-ced3d55d.webp",
+          "asset": "asset-e9b47dd8.webp"
         }
       ],
       "embedSpanCount": 0,
