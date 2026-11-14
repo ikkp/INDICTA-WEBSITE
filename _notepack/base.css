@@ -1363,6 +1363,11 @@ body[data-kind="list"] > h1 {
 
 .post-meta .dot { opacity: 0.5; }
 
+.post-meta time {
+    text-transform: none;
+    letter-spacing: 0.04em;
+}
+
 /* ==========================================================
    ΛΙΣΤΑ ΚΕΙΜΕΝΩΝ (Base cards)
    ========================================================== */
@@ -1448,6 +1453,12 @@ body[data-kind="list"] > h1 {
     display: inline !important;
     margin: 0 !important;
     font-size: 0.72rem !important;
+}
+
+/* οι ημερομηνίες διαβάζονται καλύτερα με πεζά (14 Νοεμβρίου 2026, όχι ΝΟΕΜΒΡΙΟΥ) */
+.np-card .np-sub-prop:nth-child(2) {
+    text-transform: none;
+    letter-spacing: 0.03em;
 }
 
 /* τα ονόματα των πεδίων (ΚΑΤΗΓΟΡΙΑ / ΗΜΕΡΟΜΗΝΙΑ) δεν χρειάζονται στις κάρτες */
