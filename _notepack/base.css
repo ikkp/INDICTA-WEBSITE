@@ -1324,18 +1324,29 @@ body[data-kind="list"] > h1 {
    ΑΡΘΡΟ — hero εικόνα + byline (μπαίνουν από το 2 deploy.py)
    ========================================================== */
 
+/* Το hero είναι «πλαίσιο»: πλάτος στήλης κειμένου, αναλογία 12:7 (≈720×420 σε 1440),
+   λεπτή μπορντώ γραμμή, λίγα pixel κενό γύρω από τη φωτογραφία. Η φωτογραφία χωράει
+   ολόκληρη (contain) και ό,τι περισσεύει το γεμίζει το χρώμα φόντου. */
 .post-hero {
-    margin: 0 0 2.25rem;
-    padding: 0;
+    max-width: var(--content-w);
+    margin: 0 auto 2.25rem;
+    padding: 8px;
+    border: 1px solid var(--np-color-accent);
+    background: var(--np-color-bg);
+    box-sizing: border-box;
+    aspect-ratio: 12 / 7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .post-hero img {
     display: block;
     width: 100% !important;
-    height: auto !important;
-    max-height: 62vh;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
+    height: 100% !important;
+    max-height: 100%;
+    object-fit: contain;
+    object-position: center;
     border-radius: 0 !important;
 }
 

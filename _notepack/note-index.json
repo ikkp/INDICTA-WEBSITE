@@ -7,7 +7,7 @@
   {
     "path": "DRAFT/Banner.md",
     "title": "Banner",
-    "file": "banner.html"
+    "file": "note-4dff5f86.html"
   },
   {
     "path": "ELEMENTS/ΚΕΙΜΕΝΑ/1η Μάρτη.md",
@@ -18,11 +18,6 @@
     "path": "ELEMENTS/ΚΕΙΜΕΝΑ/21 Δεκέμβρη.md",
     "title": "21 Δεκέμβρη",
     "file": "21-dekemvri.html"
-  },
-  {
-    "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Anti urban.md",
-    "title": "Anti urban",
-    "file": "anti-urban.html"
   },
   {
     "path": "ELEMENTS/ΚΕΙΜΕΝΑ/Personal Serendipity.md",
@@ -138,5 +133,10 @@
     "path": "INDICTA WEBSITE/Ανείπωτα.md",
     "title": "Ανείπωτα",
     "file": "aneipota.html"
+  },
+  {
+    "path": "WORKING/Anti urban.md",
+    "title": "Anti urban",
+    "file": "note-4f36d338.html"
   }
 ]

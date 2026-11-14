@@ -1,10 +1,9 @@
 {
   "ELEMENTS/Ανείπωτα.base": "base-ba1eb426.html",
   "0 Οδηγίες.md": "note-18a99149.html",
-  "DRAFT/Banner.md": "banner.html",
+  "DRAFT/Banner.md": "note-4dff5f86.html",
   "ELEMENTS/ΚΕΙΜΕΝΑ/1η Μάρτη.md": "1i-marti.html",
   "ELEMENTS/ΚΕΙΜΕΝΑ/21 Δεκέμβρη.md": "21-dekemvri.html",
-  "ELEMENTS/ΚΕΙΜΕΝΑ/Anti urban.md": "anti-urban.html",
   "ELEMENTS/ΚΕΙΜΕΝΑ/Personal Serendipity.md": "personal-serendipity.html",
   "ELEMENTS/ΚΕΙΜΕΝΑ/Sea gulls in Istanbul.md": "sea-gulls-in-istanbul.html",
   "ELEMENTS/ΚΕΙΜΕΝΑ/Αναγνώσιμος άμα τη αναζητήσει.md": "anagnosimos-ama-ti-anazitisei.html",
@@ -27,5 +26,6 @@
   "ELEMENTS/ΚΕΙΜΕΝΑ/Το κοσμικό φλιπεράκι.md": "to-kosmiko-fliperaki.html",
   "IDEA.md": "note-b0e92f05.html",
   "INDICTA WEBSITE/index.md": "/",
-  "INDICTA WEBSITE/Ανείπωτα.md": "aneipota.html"
+  "INDICTA WEBSITE/Ανείπωτα.md": "aneipota.html",
+  "WORKING/Anti urban.md": "note-4f36d338.html"
 }
