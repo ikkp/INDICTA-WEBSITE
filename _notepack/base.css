@@ -1246,6 +1246,14 @@ table.np-props,
     margin-top: 0.9rem;
 }
 
+/* ίδιο βελάκι και στο τέλος του κειμένου (μέσα στο main, ευθυγραμμισμένο με το κείμενο) */
+.post-back.is-end {
+    max-width: none;
+    margin: 2.5rem 0 0.5rem;
+    padding: 0;
+    display: block;
+}
+
 body > h1 {
     max-width: var(--content-w);
     margin: 2.75rem auto 0;
