@@ -1217,7 +1217,8 @@ table.np-props,
 }
 
 .site-footer a { color: var(--np-color-text-muted) !important; text-decoration: none !important; }
-.site-footer a.email { text-transform: none !important; letter-spacing: 0.04em; }
+.site-footer a.email { text-transform: none !important; letter-spacing: 0.04em;
+    text-decoration: underline !important; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .site-footer a:hover { color: var(--np-color-accent) !important; }
 
 /* ---------- τίτλος σελίδας & κείμενο ---------- */
