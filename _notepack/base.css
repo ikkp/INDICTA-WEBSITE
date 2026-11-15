@@ -1638,10 +1638,14 @@ body[data-kind="list"] > h1 {
 }
 
 .theme-btn svg { width: 15px; height: 15px; display: block; }
-.theme-btn .i-moon { display: none; }
 
-html[data-theme="dark"] .theme-btn .i-sun { display: none; }
-html[data-theme="dark"] .theme-btn .i-moon { display: block; }
+/* Το εικονίδιο δείχνει ΤΙ ΘΑ ΠΑΡΕΙΣ αν πατήσεις (όπως στο 12358soft):
+   ανοιχτό θέμα → φεγγάρι · σκούρο θέμα → ήλιος. */
+.theme-btn .i-sun { display: none; }
+.theme-btn .i-moon { display: block; }
+
+html[data-theme="dark"] .theme-btn .i-sun { display: block; }
+html[data-theme="dark"] .theme-btn .i-moon { display: none; }
 
 /* ---------- σκούρο θέμα: «μελάνι σε νυχτερινό χαρτί» ---------- */
 
