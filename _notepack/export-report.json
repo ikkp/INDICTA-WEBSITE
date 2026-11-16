@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-16T00:58:04.637Z",
+  "startedAt": "2026-11-16T02:03:07.868Z",
   "manifestVersion": "0.18.6",
   "scopeTitle": "INDICTA WEBSITE",
   "exportMode": "local",
@@ -177,8 +177,16 @@
       "links": [],
       "images": [],
       "embedSpanCount": 0,
+      "oembeds": [
+        {
+          "url": "https://www.youtube.com/watch?v=DFXJJzsQEoo",
+          "fetched": true,
+          "thumb": "oembed-hqdefault-4.jpg"
+        }
+      ],
       "noteEmbeds": [],
       "topLevelTags": [
+        "p",
         "p",
         "p",
         "p",
@@ -209,10 +217,6 @@
       "embedSpanCount": 0,
       "noteEmbeds": [],
       "topLevelTags": [
-        "p",
-        "p",
-        "p",
-        "p",
         "p",
         "p",
         "p"
@@ -287,7 +291,7 @@
         {
           "url": "https://www.youtube.com/watch?v=5q9H2cd36RU",
           "fetched": true,
-          "thumb": "oembed-hqdefault-4.jpg"
+          "thumb": "oembed-hqdefault-5.jpg"
         }
       ],
       "noteEmbeds": [],
@@ -307,7 +311,7 @@
         {
           "url": "https://www.youtube.com/watch?v=GwMviSBL6qo",
           "fetched": true,
-          "thumb": "oembed-hqdefault-5.jpg"
+          "thumb": "oembed-hqdefault-6.jpg"
         }
       ],
       "noteEmbeds": [],
@@ -326,7 +330,7 @@
         {
           "url": "https://www.youtube.com/watch?v=yVSaaDZ6YDY",
           "fetched": true,
-          "thumb": "oembed-hqdefault-6.jpg"
+          "thumb": "oembed-hqdefault-7.jpg"
         }
       ],
       "noteEmbeds": [],
@@ -360,7 +364,7 @@
         {
           "url": "https://www.youtube.com/watch?v=vQGunbY7400",
           "fetched": true,
-          "thumb": "oembed-hqdefault-7.jpg"
+          "thumb": "oembed-hqdefault-8.jpg"
         }
       ],
       "noteEmbeds": [],
@@ -453,108 +457,108 @@
       "images": [
         {
           "originalSrc": "../assets/asset-7a2695eb.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-7a2695eb.webp",
-          "asset": "asset-6644a830.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-7a2695eb.webp",
+          "asset": "asset-eb149019.webp"
         },
         {
           "originalSrc": "../assets/asset-e7e61541.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-e7e61541.webp",
-          "asset": "asset-aa4e400d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-e7e61541.webp",
+          "asset": "asset-d7213ad4.webp"
         },
         {
           "originalSrc": "../assets/asset-65cecdab.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-65cecdab.webp",
-          "asset": "asset-7e66e8dc.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-65cecdab.webp",
+          "asset": "asset-99d2b611.webp"
         },
         {
           "originalSrc": "../assets/asset-2cb6cd6d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-2cb6cd6d.webp",
-          "asset": "asset-e2e2f421.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-2cb6cd6d.webp",
+          "asset": "asset-b4267370.webp"
         },
         {
           "originalSrc": "../assets/asset-6f14022d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-6f14022d.webp",
-          "asset": "asset-8288e634.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-6f14022d.webp",
+          "asset": "asset-074f6985.webp"
         },
         {
           "originalSrc": "../assets/asset-8ea82868.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-8ea82868.webp",
-          "asset": "asset-d6bc32ad.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-8ea82868.webp",
+          "asset": "asset-d15ae824.webp"
         },
         {
           "originalSrc": "../assets/asset-d37c94a5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-d37c94a5.webp",
-          "asset": "asset-947b453f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-d37c94a5.webp",
+          "asset": "asset-777c1c32.webp"
         },
         {
           "originalSrc": "../assets/asset-6d1b104b.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-6d1b104b.webp",
-          "asset": "asset-014b1909.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-6d1b104b.webp",
+          "asset": "asset-c80bbc38.webp"
         },
         {
           "originalSrc": "../assets/asset-eefaf7ba.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-eefaf7ba.webp",
-          "asset": "asset-7e209b20.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-eefaf7ba.webp",
+          "asset": "asset-ea6e2c4d.webp"
         },
         {
           "originalSrc": "../assets/asset-9aea8cdf.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-9aea8cdf.webp",
-          "asset": "asset-b0043a3e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-9aea8cdf.webp",
+          "asset": "asset-50648fbb.webp"
         },
         {
           "originalSrc": "../assets/asset-b0f3f36f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-b0f3f36f.webp",
-          "asset": "asset-0c364b3d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-b0f3f36f.webp",
+          "asset": "asset-f3677708.webp"
         },
         {
           "originalSrc": "../assets/asset-5db1c3a8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-5db1c3a8.webp",
-          "asset": "asset-b89591c2.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-5db1c3a8.webp",
+          "asset": "asset-8c5a3c33.webp"
         },
         {
           "originalSrc": "../assets/asset-c0dedc41.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-c0dedc41.webp",
-          "asset": "asset-149a52f5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-c0dedc41.webp",
+          "asset": "asset-492ce628.webp"
         },
         {
           "originalSrc": "../assets/asset-746cb4d4.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-746cb4d4.webp",
-          "asset": "asset-f6875c89.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-746cb4d4.webp",
+          "asset": "asset-a10cf0fc.webp"
         },
         {
           "originalSrc": "../assets/asset-e289c9fe.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-e289c9fe.webp",
-          "asset": "asset-080ec360.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-e289c9fe.webp",
+          "asset": "asset-6d5f49cd.webp"
         },
         {
           "originalSrc": "../assets/asset-52b1333e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-52b1333e.webp",
-          "asset": "asset-d005d71f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-52b1333e.webp",
+          "asset": "asset-69f8be32.webp"
         },
         {
           "originalSrc": "../assets/asset-ced3d55d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-ced3d55d.webp",
-          "asset": "asset-ec25c3e6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-ced3d55d.webp",
+          "asset": "asset-f8d24fbf.webp"
         },
         {
           "originalSrc": "../assets/asset-063be202.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-063be202.webp",
-          "asset": "asset-0e7577d5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-063be202.webp",
+          "asset": "asset-3a4b0b0c.webp"
         },
         {
           "originalSrc": "../assets/asset-7e8ebb88.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-7e8ebb88.webp",
-          "asset": "asset-6aedc2d2.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-7e8ebb88.webp",
+          "asset": "asset-670fa633.webp"
         },
         {
           "originalSrc": "../assets/asset-3b4d51fe.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-3b4d51fe.webp",
-          "asset": "asset-03aa7e05.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-3b4d51fe.webp",
+          "asset": "asset-028574d8.webp"
         },
         {
           "originalSrc": "../assets/asset-80484df8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261116-025804/assets/asset-80484df8.webp",
-          "asset": "asset-e83f7bd1.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261116-040307/assets/asset-80484df8.webp",
+          "asset": "asset-2fc09140.webp"
         }
       ],
       "embedSpanCount": 0,
